@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Cyber Security Index</title>
+               Cyber Security Index
 </head>
 <body>
 
@@ -20,25 +20,4 @@
     <li>Multi-factor authentication</li>
   </ul>
 
-  <h2>HTTP Response Codes in Security</h2>
-  <table>
-    <tr>
-      <th>Code</th>
-      <th>Explanation</th>
-    </tr>
-    <tr>
-      <td>403</td>
-      <td>Forbidden: The client is not allowed to access this resource [1].</td>
-    </tr>
-    <tr>
-      <td>404</td>
-      <td>Not Found: The server cannot find the requested resource [1].</td>
-    </tr>
-    <tr>
-      <td>500</td>
-      <td>Internal Server Error: A generic error message, given when an unexpected condition was encountered on the server.</td>
-    </tr>
-  </table>
-
-</body>
-</html>
+  
